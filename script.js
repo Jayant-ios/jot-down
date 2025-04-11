@@ -1,6 +1,6 @@
 const posts = [
   { file: 'posts/first-post.md', title: '', date: '' }
-  { file: 'posts/First principle.md', title: '', date: '' }
+  { file: 'posts/First Principle.md', title: '', date: '' }
 ];
 
 const container = document.getElementById('content');
