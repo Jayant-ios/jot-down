@@ -1,6 +1,5 @@
 const posts = [
-  { file: 'posts/first-post.md', title: 'First Post', date: 'April 9, 2025' },
-  { file: 'posts/another-one.md', title: 'Another One', date: 'April 8, 2025' },
+  { file: 'posts/first-post.md', title: '', date: '' }
 ];
 
 const container = document.getElementById('content');
